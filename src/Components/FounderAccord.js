@@ -216,7 +216,7 @@ class FounderAccord extends React.Component {
         return (
             <Container text style={{ marginTop: "2em" }}>
                 <h1>Founder Accord</h1>
-                <p>This contract requires signers to have an email linked to their OpenLaw account</p>
+                <p>A simple agreement between founders.</p>
                 <OpenLawForm
                     apiClient={apiClient}
                     executionResult={executionResult}
