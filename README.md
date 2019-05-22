@@ -1,3 +1,7 @@
+# FounderAccord.me 🤝
+
+Deploy DIY founders' agreement in seconds based on MCOB '[Founder Accord](https://www.mcoblaw.com/founder-accord)'.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
